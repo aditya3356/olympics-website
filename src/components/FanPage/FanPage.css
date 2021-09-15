@@ -1,0 +1,58 @@
+.Heading {
+    font-size: 70px;
+    font-weight: 900;
+    color: purple;
+    padding-left: 20px;
+}
+
+.CheerComponent {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 70px;
+}
+
+.Card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    width: 500px;
+    height: 300px;
+    border: 1px solid black;
+    margin: 20px;
+    border-radius: 25px;
+}
+
+.Name {
+    font-size: 30px;
+    font-weight: 600px;
+}
+
+.Button {
+    background-color: lightgreen;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.TallyHeading {
+    color: blue;
+    font-size: 50px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    padding-left: 20px;
+}
+
+.TallyRow {
+    width: 800px;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.TallyComponent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

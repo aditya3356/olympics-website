@@ -1,0 +1,50 @@
+.Heading {
+    font-size: 70px;
+    font-weight: 900;
+    color: purple;
+    padding-left: 20px;
+}
+
+.Name {
+    font-size: 30px;
+    font-weight: 600px;
+}
+
+.Gold {
+    font-size: 30px;
+    font-weight: 600px;
+    color: gold;
+}
+
+.Silver {
+    font-size: 30px;
+    font-weight: 600px;
+    color: silver;
+}
+
+.Bronze {
+    font-size: 30px;
+    font-weight: 600px;
+    color: bronze;
+}
+
+.TallyHeading {
+    color: blue;
+    font-size: 50px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    padding-left: 20px;
+}
+
+.TallyRow {
+    width: 800px;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.TallyComponent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
